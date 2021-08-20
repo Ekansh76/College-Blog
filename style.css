@@ -1,0 +1,20 @@
+body
+{
+    text-align: center;
+    background-color: lightcyan;
+}
+
+#img
+{
+  width: 560px;
+  border-radius: 23px;
+  padding: 5px;
+  height: 350px;
+}
+
+#map
+{
+    width: 600px;
+    height: 600px;
+    border-radius: 22px;
+}
